@@ -2,22 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
 
 <h4 align="center">I am a Third-year Computer Engineering undergraduate student at MCT’s Rajiv Gandhi Institute of Technology with an interest in Data Science, Deep Learning, and Computer Networking.</h4>
-<hr>
-
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla/)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white)](https://www.hackerrank.com/arun_a_addagatla)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![kaggle Badge](https://img.shields.io/badge/-kaggle-0e76a8?style=for-the-badge&labelColor=whitesmoke&logo=kaggle&logoColor=0e76a8)](https://www.kaggle.com/arun2729)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![hackerrank Badge](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=malachite)](https://www.hackerrank.com/arun_a_addagatla)
-
 <br>
-
-
 
 - 🔭 I’m currently working on **candlestick patterns analysis using computer vision**
 
@@ -30,6 +15,19 @@
 - 📫 How to reach me **arun.a.addagatla@gmail.com**
 
 - ⚡ Fun fact **My perfect day would start with a cup of coffee**
+
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla/)
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white)](https://www.hackerrank.com/arun_a_addagatla)
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![kaggle Badge](https://img.shields.io/badge/-kaggle-0e76a8?style=for-the-badge&labelColor=whitesmoke&logo=kaggle&logoColor=0e76a8)](https://www.kaggle.com/arun2729)
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![hackerrank Badge](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=malachite)](https://www.hackerrank.com/arun_a_addagatla)
 
 
 
