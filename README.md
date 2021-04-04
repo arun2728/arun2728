@@ -16,7 +16,8 @@
 
 - ⚡ Fun fact **My perfect day would start with a cup of coffee**
 <hr>
-
+<h5 align="center"><i>(Feel free to reach out if you have any questions or concerns)</i></h5>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla/)
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
