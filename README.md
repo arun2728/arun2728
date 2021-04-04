@@ -77,7 +77,6 @@
 <p>
 <a href="https://github.com/adreaskar">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arun2728&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
-  &nbsp;
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arun2728&show_icons=true&locale=en&theme=tokyonight">
 </a>
 </p>
