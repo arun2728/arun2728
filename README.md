@@ -1,10 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arun2728&label=Profile%20views&color=0e75b6&style=flat" alt="arun2728" /> </p>
 <h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
 <h4 align="center">I am a Third-year Computer Engineering undergraduate student at MCT’s Rajiv Gandhi Institute of Technology with an interest in Data Science, Deep Learning, and Computer Networking.</h4>
-
-<h5 align="center"><i>(Feel free to reach out if you have any questions or concerns)</i></h5>
 <br>
-
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla/)
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
