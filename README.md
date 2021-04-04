@@ -73,5 +73,5 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arun2728&show_icons=true&locale=en&theme=tokyonight" alt="arun2728" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun2728&show_icons=true&locale=en&theme=tokyonight" alt="arun2728" /></p>
 
