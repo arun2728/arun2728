@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **arun.a.addagatla@gmail.com**
 
-- ⚡ Fun fact **My perfect day would start with a cup Of coffee**
+- ⚡ Fun fact **My perfect day would start with a cup of coffee**
 
 <h5 align="center"><i>(Feel free to reach out if you have any questions or concerns)</i></h5>
 <hr>
