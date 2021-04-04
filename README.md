@@ -71,7 +71,11 @@
 <img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun2728&show_icons=true&locale=en&layout=compact" alt="arun2728" /></p>
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun2728&show_icons=true&locale=en" alt="arun2728" /></p>
 
