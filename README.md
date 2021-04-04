@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
 <h4 align="center">I am a Third-year Computer Engineering undergraduate student at MCT’s Rajiv Gandhi Institute of Technology with an interest in Data Science, Deep Learning, and Computer Networking.</h4>
 <br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla/)
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
