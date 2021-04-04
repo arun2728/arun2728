@@ -29,7 +29,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![hackerrank Badge](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=malachite)](https://www.hackerrank.com/arun_a_addagatla)
 
-<h5 align="center"><i>(Feel free to reach out if you have any questions or concerns)</i></h5>
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
