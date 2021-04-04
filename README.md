@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arun2728&label=Profile%20views&color=0e75b6&style=flat" alt="arun2728" /> </p>
+<h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
 
 <h4 align="center">I am a Third-year Computer Engineering undergraduate student at MCT’s Rajiv Gandhi Institute of Technology with an interest in Data Science, Deep Learning, and Computer Networking.</h4>
 <hr>
@@ -17,7 +16,7 @@
 [![hackerrank Badge](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=malachite)](https://www.hackerrank.com/arun_a_addagatla)
 
 <br>
-<br>
+
 
 
 - 🔭 I’m currently working on **candlestick patterns analysis using computer vision**
@@ -33,9 +32,44 @@
 - ⚡ Fun fact **My perfect day would start with a cup of coffee**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Tools and Technologies:<h3>
+
+<h4 align="left">Languages<h4>  
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+
+<h4 align="left">Frameworks/Libraries<h4>  
+<img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
+<img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
+<img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png">
+<img height="30" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png">
+<img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
+<img height="30" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png">
+
+<h4 align="left">Operating System<h4> 
+<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/linux.png?raw=true">
+<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/debian.png?raw=true">
+<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/ubuntu.png?raw=true">
+<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/arch-linux.png?raw=true">
+<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/windows.png?raw=true">
+
+<h4 align="left">Others<h4> 
+<img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+<img height="30" src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png">
+<img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun2728&show_icons=true&locale=en&layout=compact" alt="arun2728" /></p>
 
