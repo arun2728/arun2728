@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arun2728&label=Profile%20views&color=0e75b6&style=flat" alt="arun2728" /> </p>
 <h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
 
-<h4 align="center">I am an Undergraduate Computer Engineering gradudated in the year 2022 from MCT’s Rajiv Gandhi Institute of Technology. Skilled machine learning engineer with an interest in Data Science, Deep Learning, and NLP.</h4>
+<h5 align="center">I am an Undergraduate Computer Engineering gradudated in the year 2022 from MCT’s Rajiv Gandhi Institute of Technology. Also a skilled machine learning engineer with an interest in Data Science, Deep Learning, and NLP.</h5>
 <br>
 
 - 🔭 I’m currently working on **working on major NLP problems like semantic search, NER, sentiment and ABSA**
