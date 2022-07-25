@@ -1,20 +1,20 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arun2728&label=Profile%20views&color=0e75b6&style=flat" alt="arun2728" /> </p>
 <h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
 
-<h4 align="center">I am a Final-year Computer Engineering undergraduate student at MCT’s Rajiv Gandhi Institute of Technology with an interest in Data Science, Deep Learning, and Computer Networking.</h4>
+<h4 align="center">I am an Undergraduate Computer Engineering gradudated in the year 2022 from MCT’s Rajiv Gandhi Institute of Technology. Skilled machine learning engineer with an interest in Data Science, Deep Learning, and NLP.</h4>
 <br>
 
-- 🔭 I’m currently working on **candlestick patterns analysis using computer vision**
+- 🔭 I’m currently working on **working on major NLP problems like semantic search, NER, sentiment and ABSA**
 
-- 🌱 I’m currently learning **computer vision, NLP, MLOps**
+- 🌱 I’m currently learning **NLP, and MLOps**
 
 - 👯 I’m looking to collaborate on **Kaggle competitions and Deep learning projects**
 
-- 📝 I regularly write articles on [https://arunaddagatla.medium.com/](medium)
+- 📝 I write articles on [https://arunaddagatla.medium.com/](medium)
 
-- 📫 How to reach me **arun.a.addagatla@gmail.com**
+- 📫 How to reach me - **arun.a.addagatla@gmail.com**
 
-- ⚡ Fun fact **My perfect day would start with a cup of coffee**
+- ⚡ Fun fact - **My perfect day would start with a cup of coffee**
 
 <hr>
 
