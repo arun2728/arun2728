@@ -126,6 +126,22 @@ Bachelor’s Degree, Computer Engineering
 
 ---
 
+### GitHub Stats
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=arun2728&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=22D3EE&sideNums=22D3EE&dates=6B7280" alt="GitHub Streak" width="520" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun2728&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=22d3ee&area=true&area_color=c084fc&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%" />
+
+</div>
+
+<br>
+
+----
+
 <div align="center">
 
 ### ✨ "Build useful AI. Ship it fast. Scale it responsibly." ✨
