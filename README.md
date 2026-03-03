@@ -1,82 +1,135 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=arun2728&label=Profile%20views&color=0e75b6&style=flat" alt="arun2728" /> </p>
-<h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
+<div align="center">
 
-<h5 align="center">I am an Undergraduate Computer Engineering gradudated in the year 2022 from MCT’s Rajiv Gandhi Institute of Technology. Also a skilled machine learning engineer with an interest in Data Science, Deep Learning, and NLP.</h5>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00DBDE&text=Arun%20Addagatla&fontAlignY=38&desc=Founding%20Engineer%20@%20Lamatic.ai%20|%20GenAI%20|%20Agentic%20AI%20|%20MLOps&descAlignY=58&fontColor=ffffff" alt="banner" />
 
-- 🔭 I’m currently working on **working on major NLP problems like semantic search, NER, sentiment and ABSA**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+production-grade+AI+systems;Scaling+LLM+workflows+for+real-world+impact;From+MLOps+to+Agentic+AI+in+enterprise+environments)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **NLP, and MLOps**
+[![Profile Views](https://komarev.com/ghpvc/?username=arun2728&style=for-the-badge&color=blueviolet)](https://github.com/arun2728)
+[![GitHub followers](https://img.shields.io/github/followers/arun2728?style=for-the-badge&color=00b894&labelColor=1f1f1f)](https://github.com/arun2728)
+[![Medium](https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Addagatla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arun-addagatla)
 
-- 👯 I’m looking to collaborate on **Kaggle competitions and Deep learning projects**
+</div>
 
-- 📝 I write articles on [https://arunaddagatla.medium.com/](medium)
+---
 
-- 📫 How to reach me - **arun.a.addagatla@gmail.com**
+## 👋 About Me
 
-- ⚡ Fun fact - **My perfect day would start with a cup of coffee**
+I’m **Arun Addagatla**, a **Founding Engineer at Lamatic.ai**, focused on building robust AI platforms that move from prototype to production with speed and reliability.
 
-<hr>
+- 🚀 Architecting systems across **AI, backend, infrastructure, DevOps, and selected frontend workflows**
+- 🧠 Specialized in **LLMs, Conversational AI, Agentic AI, Semantic RAG, and MLOps**
+- ⚙️ Passionate about high-scale inference, deployment orchestration, and enterprise integrations
+- 🎓 Bachelor’s in Computer Engineering (MCT’s RGIT) with **9.6 CGPA**
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla/)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![kaggle Badge](https://img.shields.io/badge/-kaggle-0e76a8?style=for-the-badge&labelColor=whitesmoke&logo=kaggle&logoColor=0e76a8)](https://www.kaggle.com/arun2729)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![hackerrank Badge](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=malachite)](https://www.hackerrank.com/arun_a_addagatla)
+---
 
-<hr>
+## 🌐 Connect With Me
 
-<h3 align="left">Tools and Technologies:<h3>
+<div align="center">
 
-<h4 align="left">Languages<h4>  
-<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+[![Email](https://img.shields.io/badge/Email-arun.a.addagatla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.a.addagatla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arun--addagatla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arun-addagatla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arun2728.github.io-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arun2728.github.io/arunaddagatla/)
+[![GitHub](https://img.shields.io/badge/GitHub-arun2728-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun2728)
+[![Blog](https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
 
+</div>
 
-<h4 align="left">Frameworks/Libraries<h4>  
-<img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-<img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-<img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png">
-<img height="30" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png">
-<img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
-<img height="30" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png">
+---
 
-<h4 align="left">Operating System<h4> 
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/linux.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/debian.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/ubuntu.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/arch-linux.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/windows.png?raw=true">
+## 🧰 Core Skills
 
-<h4 align="left">Others<h4> 
-<img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
-<img height="30" src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png">
-<img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<div align="center">
 
-<br>
+![LLM](https://img.shields.io/badge/LLM%20Systems-8A2BE2?style=for-the-badge)
+![Conversational AI](https://img.shields.io/badge/Conversational%20AI-00C2FF?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-2ECC71?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-F39C12?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-E84393?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00B894?style=for-the-badge)
 
-<hr>
+</div>
 
+---
 
-<p>
-<a href="https://github.com/adreaskar">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arun2728&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arun2728&show_icons=true&locale=en&theme=tokyonight">
-</a>
-</p>
+## 💼 Experience Highlights
+
+### **Lamatic.ai**
+**Founding Team Member – AI**  
+*March 2024 – Present · Miami, Florida, United States*
+
+- Built a major part of Lamatic’s core tech stack as an early employee across AI, backend, infra, and critical frontend components.
+- Designed and deployed a Kubernetes ETL platform with VPC networking and multi-source ingestion (**Drive, S3, SharePoint**).
+- Implemented OAuth systems for **Google, GitHub, and Microsoft** integrations.
+- Engineered a serverless flow executor supporting **1M+ monthly requests**.
+- Built a high-throughput deployment engine handling **1K+ project deployments/minute**.
+- Reduced deployment time from **2 minutes to 15 seconds (87% faster)**.
+- Implemented advanced AI infrastructure including **Semantic RAG**, **MCP nodes**, and **agentic orchestration (Supervisor Node)**.
+- Built real-time webhook systems for **Slack** and **Microsoft Teams** synchronization.
+- Architected Lamatic’s VCS with native GitHub integration for automatic flow sync.
+
+### **Samespace**
+**Machine Learning Engineer**  
+*October 2022 – March 2024 · Mumbai, Maharashtra, India*
+
+- Built an ML-driven system to monitor and improve user productivity.
+- Engineered an AI messaging assistant for communication efficiency.
+- Designed a meeting insights system using ASR-based summarization.
+- Implemented customer support chatbots with OpenAI LLM models.
+- Developed a semantic image search system for better retrieval quality.
+
+### **Enterpret**
+**Machine Learning Engineer**  
+*September 2021 – August 2022 · Bangalore Urban, Karnataka, India*
+
+- Improved text classification pipelines and optimized model performance.
+- Designed CI/CD systems for ML delivery.
+- Implemented drift detection and anomaly detection systems.
+- Developed scalable inferencing pipelines for production workloads.
+
+### **Algoritmo Lab**
+**Data Science Intern**  
+*July 2020 – September 2020*
+
+- Worked on capex optimization for anomaly detection in financial transactions.
+- Performed statistical analysis on **100,000+** transactions for threshold tuning.
+- Collaborated across business + engineering on **80+** transaction rules.
+- Built an API that accepted rule sets and generated optimized threshold outputs.
+
+---
+
+## 🎓 Education
+
+**MCT’s Rajiv Gandhi Institute of Technology**  
+Bachelor’s Degree, Computer Engineering
+
+---
+
+## 📜 Certifications
+
+- Neural Network and Deep Learning
+- The Data Science Course 2020: Complete Data Science Bootcamp
+- IBM Data Science
+- IBM Data Science – Open Source Tools
+- Python Data Structures
+
+---
+
+## 🔭 Current Focus
+
+- Building reliable **GenAI + Agentic AI** systems for enterprise use-cases
+- Scalable **deployment and inference** platforms
+- Robust **MLOps** and production AI infrastructure
+- Retrieval-augmented systems and workflow automation
+
+---
+
+<div align="center">
+
+### ✨ "Build useful AI. Ship it fast. Scale it responsibly." ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00DBDE,50:FC00FF,100:7F00FF" alt="footer" />
+
+</div>
