@@ -1,82 +1,111 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=arun2728&label=Profile%20views&color=0e75b6&style=flat" alt="arun2728" /> </p>
-<h1 align="center">Hi 👋, I'm Arun Addagatla</h1>
+# Arun Addagatla
 
-<h5 align="center">I am an Undergraduate Computer Engineering gradudated in the year 2022 from MCT’s Rajiv Gandhi Institute of Technology. Also a skilled machine learning engineer with an interest in Data Science, Deep Learning, and NLP.</h5>
-<br>
+**Founding Engineer @ Lamatic.ai · AI Engineer · GenAI · Agentic AI · MLOps**  
+Mumbai, Maharashtra, India
 
-- 🔭 I’m currently working on **working on major NLP problems like semantic search, NER, sentiment and ABSA**
+I build production-grade AI systems that solve real-world problems.
 
-- 🌱 I’m currently learning **NLP, and MLOps**
+As a Founding Engineer at Lamatic.ai, I work across AI, backend systems, infrastructure, DevOps, and selected frontend components. My focus is on designing scalable platforms for deployment, inference, orchestration, and enterprise integrations.
 
-- 👯 I’m looking to collaborate on **Kaggle competitions and Deep learning projects**
+---
 
-- 📝 I write articles on [https://arunaddagatla.medium.com/](medium)
+## Contact
 
-- 📫 How to reach me - **arun.a.addagatla@gmail.com**
+- **Email:** arun.a.addagatla@gmail.com
+- **LinkedIn:** [linkedin.com/in/arun-addagatla](http://www.linkedin.com/in/arun-addagatla)
+- **Portfolio:** [arun2728.github.io/arunaddagatla](https://arun2728.github.io/arunaddagatla/)
+- **GitHub:** [github.com/arun2728](https://github.com/arun2728)
+- **Blog:** [arunaddagatla.medium.com](https://arunaddagatla.medium.com/)
 
-- ⚡ Fun fact - **My perfect day would start with a cup of coffee**
+---
 
-<hr>
+## About Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla/)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![kaggle Badge](https://img.shields.io/badge/-kaggle-0e76a8?style=for-the-badge&labelColor=whitesmoke&logo=kaggle&logoColor=0e76a8)](https://www.kaggle.com/arun2729)
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![hackerrank Badge](https://img.shields.io/badge/-hackerrank-black?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=malachite)](https://www.hackerrank.com/arun_a_addagatla)
+I am passionate about building practical AI solutions that create measurable impact.
 
-<hr>
+At Lamatic.ai, I architect and implement core backend infrastructure, serverless deployment and inference systems, and AI capabilities for complex enterprise workflows. Before Lamatic, I delivered multiple generative AI initiatives at Samespace, including support automation and semantic search systems.
 
-<h3 align="left">Tools and Technologies:<h3>
+I hold a Bachelor's degree in Computer Engineering from MCT’s Rajiv Gandhi Institute of Technology (9.6 CGPA), with a strong foundation in machine learning, NLP, and production ML systems.
 
-<h4 align="left">Languages<h4>  
-<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+---
 
+## Top Skills
 
-<h4 align="left">Frameworks/Libraries<h4>  
-<img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-<img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-<img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png">
-<img height="30" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png">
-<img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
-<img height="30" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png">
+- LLM Systems
+- Conversational AI
+- Decision Trees
+- NLP
+- MLOps
 
-<h4 align="left">Operating System<h4> 
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/linux.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/debian.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/ubuntu.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/arch-linux.png?raw=true">
-<img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/windows.png?raw=true">
+---
 
-<h4 align="left">Others<h4> 
-<img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
-<img height="30" src="https://pics.freeicons.io/uploads/icons/png/11951723851551942290-512.png">
-<img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+## Experience
 
-<br>
+### Lamatic.ai
+**Founding Team Member - AI**  
+*March 2024 – Present · Miami, Florida, United States*
 
-<hr>
+- Built a major portion of Lamatic’s core technology stack as an early team member across AI, backend, infrastructure, and critical frontend workflows.
+- Designed and deployed a Kubernetes-based ETL platform with VPC networking and multi-source ingestion (Google Drive, S3, SharePoint).
+- Implemented OAuth integrations for Google, GitHub, and Microsoft ecosystems.
+- Engineered a serverless flow executor supporting **1M+ monthly requests**.
+- Built a high-throughput deployment engine handling **1K+ deployments/minute**, reducing deployment time from **2 minutes to 15 seconds (87% faster)**.
+- Implemented advanced AI infrastructure including Semantic RAG, MCP nodes, agentic orchestration (Supervisor Node), and scalable data pipelines.
+- Built real-time webhook integrations for Slack and Microsoft Teams for fast, reliable synchronization.
+- Architected Lamatic’s VCS layer with native GitHub synchronization for user flows.
 
+### Samespace
+**Machine Learning Engineer**  
+*October 2022 – March 2024 · Mumbai, Maharashtra, India*
 
-<p>
-<a href="https://github.com/adreaskar">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arun2728&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arun2728&show_icons=true&locale=en&theme=tokyonight">
-</a>
-</p>
+- Built ML-based systems to monitor and improve user productivity.
+- Engineered an AI-powered messaging assistant for communication workflows.
+- Designed a meeting insights system using ASR for summarization.
+- Implemented customer support chatbots using OpenAI LLM models.
+- Developed a semantic image search system for improved retrieval quality.
+
+### Enterpret
+**Machine Learning Engineer**  
+*September 2021 – August 2022 · Bangalore Urban, Karnataka, India*
+
+- Improved text classification pipelines and optimized model performance.
+- Designed CI/CD pipelines for ML delivery.
+- Implemented drift detection and anomaly detection systems.
+- Developed scalable inferencing pipelines for production ML workloads.
+
+### Algoritmo Lab
+**Data Science Intern**  
+*July 2020 – September 2020*
+
+- Worked on capex optimization and anomaly detection for financial transactions.
+- Performed statistical analysis on **100,000+ transactions** to tune threshold rules.
+- Collaborated with business and engineering teams across **80+ rule conditions** for risk-based anomaly flagging.
+- Built an API to ingest rule configurations and output optimized threshold series.
+
+---
+
+## Education
+
+### MCT’s Rajiv Gandhi Institute of Technology
+**Bachelor’s Degree, Computer Engineering**
+
+---
+
+## Certifications
+
+- Neural Network and Deep Learning
+- The Data Science Course 2020: Complete Data Science Bootcamp
+- IBM Data Science
+- IBM Data Science – Open Source Tools
+- Python Data Structures
+
+---
+
+## Focus Areas
+
+I am currently focused on:
+
+- Building reliable GenAI and Agentic AI systems
+- Production AI infrastructure and MLOps
+- Retrieval-augmented systems and enterprise AI integrations
+- High-performance deployment and inference platforms
