@@ -1,97 +1,113 @@
-# Arun Addagatla
+<div align="center">
 
-**Founding Engineer @ Lamatic.ai · AI Engineer · GenAI · Agentic AI · MLOps**  
-Mumbai, Maharashtra, India
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00DBDE&text=Arun%20Addagatla&fontAlignY=38&desc=Founding%20Engineer%20@%20Lamatic.ai%20|%20GenAI%20|%20Agentic%20AI%20|%20MLOps&descAlignY=58&fontColor=ffffff" alt="banner" />
 
-I build production-grade AI systems that solve real-world problems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+production-grade+AI+systems;Scaling+LLM+workflows+for+real-world+impact;From+MLOps+to+Agentic+AI+in+enterprise+environments)](https://git.io/typing-svg)
 
-As a Founding Engineer at Lamatic.ai, I work across AI, backend systems, infrastructure, DevOps, and selected frontend components. My focus is on designing scalable platforms for deployment, inference, orchestration, and enterprise integrations.
+[![Profile Views](https://komarev.com/ghpvc/?username=arun2728&style=for-the-badge&color=blueviolet)](https://github.com/arun2728)
+[![GitHub followers](https://img.shields.io/github/followers/arun2728?style=for-the-badge&color=00b894&labelColor=1f1f1f)](https://github.com/arun2728)
+[![Medium](https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Addagatla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arun-addagatla)
 
----
-
-## Contact
-
-- **Email:** arun.a.addagatla@gmail.com
-- **LinkedIn:** [linkedin.com/in/arun-addagatla](http://www.linkedin.com/in/arun-addagatla)
-- **Portfolio:** [arun2728.github.io/arunaddagatla](https://arun2728.github.io/arunaddagatla/)
-- **GitHub:** [github.com/arun2728](https://github.com/arun2728)
-- **Blog:** [arunaddagatla.medium.com](https://arunaddagatla.medium.com/)
+</div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I am passionate about building practical AI solutions that create measurable impact.
+I’m **Arun Addagatla**, a **Founding Engineer at Lamatic.ai**, focused on building robust AI platforms that move from prototype to production with speed and reliability.
 
-At Lamatic.ai, I architect and implement core backend infrastructure, serverless deployment and inference systems, and AI capabilities for complex enterprise workflows. Before Lamatic, I delivered multiple generative AI initiatives at Samespace, including support automation and semantic search systems.
-
-I hold a Bachelor's degree in Computer Engineering from MCT’s Rajiv Gandhi Institute of Technology (9.6 CGPA), with a strong foundation in machine learning, NLP, and production ML systems.
-
----
-
-## Top Skills
-
-- LLM Systems
-- Conversational AI
-- Decision Trees
-- NLP
-- MLOps
+- 🚀 Architecting systems across **AI, backend, infrastructure, DevOps, and selected frontend workflows**
+- 🧠 Specialized in **LLMs, Conversational AI, Agentic AI, Semantic RAG, and MLOps**
+- ⚙️ Passionate about high-scale inference, deployment orchestration, and enterprise integrations
+- 🎓 Bachelor’s in Computer Engineering (MCT’s RGIT) with **9.6 CGPA**
 
 ---
 
-## Experience
+## 🌐 Connect With Me
 
-### Lamatic.ai
-**Founding Team Member - AI**  
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-arun.a.addagatla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.a.addagatla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arun--addagatla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arun-addagatla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arun2728.github.io-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arun2728.github.io/arunaddagatla/)
+[![GitHub](https://img.shields.io/badge/GitHub-arun2728-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun2728)
+[![Blog](https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
+
+</div>
+
+---
+
+## 🧰 Core Skills
+
+<div align="center">
+
+![LLM](https://img.shields.io/badge/LLM%20Systems-8A2BE2?style=for-the-badge)
+![Conversational AI](https://img.shields.io/badge/Conversational%20AI-00C2FF?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-2ECC71?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-F39C12?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-E84393?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00B894?style=for-the-badge)
+
+</div>
+
+---
+
+## 💼 Experience Highlights
+
+### **Lamatic.ai**
+**Founding Team Member – AI**  
 *March 2024 – Present · Miami, Florida, United States*
 
-- Built a major portion of Lamatic’s core technology stack as an early team member across AI, backend, infrastructure, and critical frontend workflows.
-- Designed and deployed a Kubernetes-based ETL platform with VPC networking and multi-source ingestion (Google Drive, S3, SharePoint).
-- Implemented OAuth integrations for Google, GitHub, and Microsoft ecosystems.
+- Built a major part of Lamatic’s core tech stack as an early employee across AI, backend, infra, and critical frontend components.
+- Designed and deployed a Kubernetes ETL platform with VPC networking and multi-source ingestion (**Drive, S3, SharePoint**).
+- Implemented OAuth systems for **Google, GitHub, and Microsoft** integrations.
 - Engineered a serverless flow executor supporting **1M+ monthly requests**.
-- Built a high-throughput deployment engine handling **1K+ deployments/minute**, reducing deployment time from **2 minutes to 15 seconds (87% faster)**.
-- Implemented advanced AI infrastructure including Semantic RAG, MCP nodes, agentic orchestration (Supervisor Node), and scalable data pipelines.
-- Built real-time webhook integrations for Slack and Microsoft Teams for fast, reliable synchronization.
-- Architected Lamatic’s VCS layer with native GitHub synchronization for user flows.
+- Built a high-throughput deployment engine handling **1K+ project deployments/minute**.
+- Reduced deployment time from **2 minutes to 15 seconds (87% faster)**.
+- Implemented advanced AI infrastructure including **Semantic RAG**, **MCP nodes**, and **agentic orchestration (Supervisor Node)**.
+- Built real-time webhook systems for **Slack** and **Microsoft Teams** synchronization.
+- Architected Lamatic’s VCS with native GitHub integration for automatic flow sync.
 
-### Samespace
+### **Samespace**
 **Machine Learning Engineer**  
 *October 2022 – March 2024 · Mumbai, Maharashtra, India*
 
-- Built ML-based systems to monitor and improve user productivity.
-- Engineered an AI-powered messaging assistant for communication workflows.
-- Designed a meeting insights system using ASR for summarization.
-- Implemented customer support chatbots using OpenAI LLM models.
-- Developed a semantic image search system for improved retrieval quality.
+- Built an ML-driven system to monitor and improve user productivity.
+- Engineered an AI messaging assistant for communication efficiency.
+- Designed a meeting insights system using ASR-based summarization.
+- Implemented customer support chatbots with OpenAI LLM models.
+- Developed a semantic image search system for better retrieval quality.
 
-### Enterpret
+### **Enterpret**
 **Machine Learning Engineer**  
 *September 2021 – August 2022 · Bangalore Urban, Karnataka, India*
 
 - Improved text classification pipelines and optimized model performance.
-- Designed CI/CD pipelines for ML delivery.
+- Designed CI/CD systems for ML delivery.
 - Implemented drift detection and anomaly detection systems.
-- Developed scalable inferencing pipelines for production ML workloads.
+- Developed scalable inferencing pipelines for production workloads.
 
-### Algoritmo Lab
+### **Algoritmo Lab**
 **Data Science Intern**  
 *July 2020 – September 2020*
 
-- Worked on capex optimization and anomaly detection for financial transactions.
-- Performed statistical analysis on **100,000+ transactions** to tune threshold rules.
-- Collaborated with business and engineering teams across **80+ rule conditions** for risk-based anomaly flagging.
-- Built an API to ingest rule configurations and output optimized threshold series.
+- Worked on capex optimization for anomaly detection in financial transactions.
+- Performed statistical analysis on **100,000+** transactions for threshold tuning.
+- Collaborated across business + engineering on **80+** transaction rules.
+- Built an API that accepted rule sets and generated optimized threshold outputs.
 
 ---
 
-## Education
+## 🎓 Education
 
-### MCT’s Rajiv Gandhi Institute of Technology
-**Bachelor’s Degree, Computer Engineering**
+**MCT’s Rajiv Gandhi Institute of Technology**  
+Bachelor’s Degree, Computer Engineering
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - Neural Network and Deep Learning
 - The Data Science Course 2020: Complete Data Science Bootcamp
@@ -101,11 +117,19 @@ I hold a Bachelor's degree in Computer Engineering from MCT’s Rajiv Gandhi Ins
 
 ---
 
-## Focus Areas
+## 🔭 Current Focus
 
-I am currently focused on:
+- Building reliable **GenAI + Agentic AI** systems for enterprise use-cases
+- Scalable **deployment and inference** platforms
+- Robust **MLOps** and production AI infrastructure
+- Retrieval-augmented systems and workflow automation
 
-- Building reliable GenAI and Agentic AI systems
-- Production AI infrastructure and MLOps
-- Retrieval-augmented systems and enterprise AI integrations
-- High-performance deployment and inference platforms
+---
+
+<div align="center">
+
+### ✨ "Build useful AI. Ship it fast. Scale it responsibly." ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00DBDE,50:FC00FF,100:7F00FF" alt="footer" />
+
+</div>
