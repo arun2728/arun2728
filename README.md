@@ -1,190 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00DBDE&text=Arun%20Addagatla&fontAlignY=38&desc=Founding%20Engineer%20@%20Lamatic.ai%20|%20GenAI%20|%20Agentic%20AI%20|%20MLOps&descAlignY=58&fontColor=ffffff" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F2027,50:2C5364,100:8E2DE2&text=Arun%20Addagatla&fontAlignY=40&fontSize=52&desc=Founding%20AI%20Engineer%20%40%20Lamatic.ai%20·%20Agent%20Runtimes%20·%20Production%20LLM%20Ops&descAlignY=60&descSize=16&fontColor=ffffff" alt="banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+production-grade+AI+systems;Scaling+LLM+workflows+for+real-world+impact;From+MLOps+to+Agentic+AI+in+enterprise+environments)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=8E2DE2&center=true&vCenter=true&width=920&lines=Infrastructure+for+durable+agents%2C+not+demos;Serverless+executors+at+1M%2B+runs+per+month;Multi-agent+harnesses+with+evals+%26+LLM-as-a-judge;From+MLOps+to+Agentic+AI+in+production)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=arun2728&style=for-the-badge&color=blueviolet)](https://github.com/arun2728)
-[![GitHub followers](https://img.shields.io/github/followers/arun2728?style=for-the-badge&color=00b894&labelColor=1f1f1f)](https://github.com/arun2728)
-[![Medium](https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Addagatla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Arun Addagatla**, a **Founding Engineer - AI at Lamatic.ai**, focused on building robust AI platforms that move from prototype to production with speed and reliability.
-
-- 🚀 Architecting systems across **AI, backend, infrastructure, DevOps, and critical frontend components**
-- 🧠 Specialized in **LLMs, Conversational AI, Agentic AI, Semantic RAG, and MLOps**
-- ⚙️ Passionate about high-scale inference, deployment orchestration, and enterprise integrations
-- 🎓 Bachelor's in Computer Engineering (MCT's RGIT, University of Mumbai) with **9.6 CGPA**
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-arun.a.addagatla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.a.addagatla@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arun--addagatla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-addagatla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arunaddagatla.vercel.app-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arunaddagatla.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-arun2728-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arun2728)
-[![Blog](https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://arunaddagatla.medium.com/)
+<a href="https://arunaddagatla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arun-addagatla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://arunaddagatla.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="mailto:arun.a.addagatla@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/arun2728"><img src="https://komarev.com/ghpvc/?username=arun2728&style=flat-square&color=8E2DE2&label=Profile+Views" /></a>
 
 </div>
 
 ---
 
-## 🧰 Core Skills
+## `~/whoami`
+
+```ts
+const arun = {
+  role: "Founding AI Engineer @ Lamatic.ai",
+  focus: ["agent runtimes", "multi-agent orchestration", "production LLM ops"],
+  building: "infrastructure for durable autonomous systems — not slide-deck demos",
+  firstHire: true,          // shipped 80%+ of the core platform
+  stack: ["Python", "TypeScript", "Go", "Cloudflare Workers", "Kubernetes"],
+  caresAbout: ["durability", "distributed execution", "eval", "what breaks after the millionth run"],
+};
+```
+
+I'm **Arun Addagatla**, an AI systems engineer who builds the runtime glue that keeps agents alive past a single HTTP request — serverless execution, multi-agent orchestration, memory/RAG layers, and eval. As the first engineering hire at **[Lamatic.ai](https://lamatic.ai)** (TechCrunch Startup Battlefield 200 · Cloudflare Workers Launchpad), I've shipped over **80%** of the platform.
+
+---
+
+## 🛠️ Flow-Gen Agent Harness — _the thing I'm proudest of_
+
+A **multi-agent harness** that turns a plain-English request into a validated, deployable Lamatic workflow. I first built a reusable multi-agent node primitive, then **dogfooded it** to build the harness itself.
+
+```mermaid
+flowchart LR
+    P[🧭 Planner] --> A[🏗️ Architect]
+    A --> W[🧵 Weaver]
+    W <--> I[🔍 Inspector]
+    I --> F[🧩 Filler]
+    F <--> Au[🛡️ Auditor]
+    Au --> V[✅ Validator]
+    V --> O[(Deployable Flow)]
+```
+
+| Agent | Role |
+|-------|------|
+| **Planner** | Resolves intent · RAG over sample flows · single vs. multi-workflow |
+| **Architect** | Selects nodes from the catalog |
+| **Weaver ⇄ Inspector** | Builds skeleton/edges · edge dry-run with feedback loop |
+| **Filler ⇄ Auditor** | Fills node config from schema · executes node + credential check with feedback loop |
+| **Validator** | Final end-to-end retest → hands the user a working flow |
+
+**Two-tier verification:** deterministic checks where ground truth exists; a rubric **LLM-as-a-judge** only for fuzzy output quality — and the judge *never* overrides a hard check.
+
+---
+
+## 🚀 Featured Work
+
+### 🧩 [Content OS](https://github.com/arun2728/content-os) &nbsp;·&nbsp; _in development_
+AI content-orchestration monorepo guiding the full pipeline — **clarify → outline → write → edit → publish** — with autonomous agents owning each stage.
+
+### 🔌 [Dev.to MCP Server](https://github.com/arun2728/dev-to-mcp) &nbsp;·&nbsp; _live_
+An MCP server exposing **35+ tools** over the Dev.to (Forem) API. Lets Claude & Cursor draft, edit, publish, and manage content. Supports **stdio · Streamable HTTP · Cloudflare Workers** transports, with a multi-arch Docker image on GHCR.
+
+### 🤖 [jobapply](https://github.com/arun2728/jobapply) &nbsp;·&nbsp; _open source_
+Local CLI that searches jobs, dedupes across runs, and drafts structured resumes + cover letters from your base profile using **LangGraph** agents — with checkpointing, optional PDF export, and pluggable models (Gemini, Anthropic, OpenAI, Ollama).
+
+### 🧪 [LLMQuests](https://github.com/arun2728/LLMQuests) &nbsp;·&nbsp; _open source_
+Hands-on collection of LLM & agent experiments — implementations and deep-dives that back my writing on memory, RAG, MCP, and multi-agent systems.
+
+### 🎙️ Multilingual Indian Voicebot &nbsp;·&nbsp; _freelance_
+End-to-end voice assistant across **10+ Indian languages**. Conformer S2T on Triton, Fastpitch TTS, and a LangChain RAG pipeline with embedding + reranker models.
+
+---
+
+## 💼 Experience
+
+**`Lamatic.ai` — Founding Engineer, AI** · _Mar 2024 – Present · Miami, FL (remote)_
+- Built **80%+** of the core stack as the first engineering hire — AI systems, backend, infra, and critical frontend.
+- Architected a serverless **executor** at **1M+ monthly runs** and a deployment engine at **1K+ deploys/min**.
+- Cut deployment latency **2 min → 15 s** (~**87%**).
+- Built the **flow-gen multi-agent harness** and a configurable **LLM-as-a-judge** eval framework.
+- Shipped an internal **hiring agent** (resume parsing + video analysis) cutting recruiter workload **70%**.
+- Engineered secure VPC **Kubernetes ETL** for Drive/S3/SharePoint with OAuth, **Semantic RAG**, a **Multi-Agent Supervisor**, Slack/Teams webhooks, and a **native GitHub VCS** for flow sync.
+
+**`Samespace` — SDE, AI/ML** · _Oct 2022 – Mar 2024 · Mumbai_
+- Chat/voicebots handling **95%** of queries (embeddings, reranking, tuned Zephyr & GPT-4).
+- Fine-tuned **Mistral / LLaMA-2** with LoRA/PEFT (+30% fluency); LLM inference engine at **106 tok/s**.
+- Optimized **Whisper V3** with ONNX/TensorRT + Triton → **0.1–0.4s** latency; multimodal search (+60%).
+
+**`Enterpret` — ML Intern, NLP** · _Sep 2021 – Aug 2022 · Bangalore_
+- Serverless multilingual sentiment on AWS (−50% processing time); CI/CD; NER/classification (+30%); anomaly detection (−60% false positives).
+
+**`Algoritmo Labs` — Data Science Intern** · _2020_ — ML model → ONNX → **Go** runtime for client-side deployment.
+
+---
+
+## 🧰 Toolbox
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Web & Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI / LLM / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain%2FLangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-9B59B6?style=flat-square)
+![Agent Harness](https://img.shields.io/badge/Agent%20Harness-8E2DE2?style=flat-square)
+![Evals](https://img.shields.io/badge/Evals%20%2F%20LLM--as--a--Judge-00B894?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+![LoRA/PEFT](https://img.shields.io/badge/LoRA%20%2F%20qLoRA%20%2F%20PEFT-6C3483?style=flat-square)
+
+**Inference & Model Serving**
+
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper%20ASR-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Data & Vector Stores**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS%20(Lambda%2FECR%2FS3)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20(CloudRun%2FBigQuery%2FGCS%2FVPC)-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20(Workers%2FQueues%2FR2%2FDO)-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Observability & CI/CD**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 🎤 Talks & ✍️ Writing
+
+**Recent talks**
+- **Why LLMs Need Memory** — Lamatic Community (Mar 2026) · [YouTube](https://www.youtube.com/watch?v=iwrBZWDOnSo)
+- **Applications of AI** — Omkaranada Institute (Apr 2026) · live-shipped a web app in <8 min
+- **Why Prompting Isn't Enough: The Case for RAG** — Lamatic Community (Jan 2026)
+- **What is MCP & How It Works** — Daytona Developers Club Tour '25, Mumbai (May 2025)
+
+**Recent writing** (70k+ reads across Medium · GoPenAI · Nerd For Tech · [Lamatic Labs](https://labs.lamatic.ai/authors/arun-addagatla))
+- [Why LLMs Need Memory — Building AI Agents Hands-On](https://medium.com/@arunaddagatla/why-llms-need-memory-building-ai-agents-with-a-hands-on-implementation-849dbbf6fd0d) · Mar 2026
+- [Inside NVIDIA Nemotron 3: Hybrid MoE for Multi-Agent AI](https://medium.com/gopenai/inside-nvidia-nemotron-3-hybrid-moe-models-built-for-multi-agent-ai-2aabcc056e93) · Dec 2025
+- [Cut Token Costs by 60%: TOON vs JSON for AI Workflows](https://medium.com/@arunaddagatla/cut-token-costs-by-60-how-toon-outperforms-json-for-ai-workflows-cf67d038db2d) · Nov 2025
+- [Lamatic — The Operating System for AI Agents](https://labs.lamatic.ai/p/lamatic-ai-the-operating-system-for-ai-agents)
+
+---
+
+## 🔭 Currently
+
+Building reliable **GenAI + Agentic AI** for enterprise · durable **execution/inference** platforms · production **MLOps** · **RAG**, **MCP** integrations, and autonomous workflow automation.
+
+---
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Systems-8A2BE2?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00B894?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-E84393?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-9B59B6?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-F39C12?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+### 📊 GitHub
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arun2728&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=22D3EE&text_color=C9D1D9&ring_color=8E2DE2" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arun2728&layout=compact&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=C9D1D9" height="165" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=arun2728&hide_border=true&background=0D1117&ring=8E2DE2&fire=C084FC&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=22D3EE&sideNums=22D3EE&dates=6B7280" width="500" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun2728&bg_color=0d1117&color=c9d1d9&line=8E2DE2&point=22d3ee&area=true&area_color=c084fc&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧩 [Content OS](https://github.com/arun2728/content-os) _(in development)_
-AI-powered content orchestration monorepo that guides users through the entire content creation pipeline — **clarify → outline → write → edit → publish to Blogger** — with autonomous agents handling each stage.
-
-### 🔌 [Dev.to MCP Server](https://github.com/arun2728/dev-to-mcp)
-A Model Context Protocol (MCP) server exposing **35+ tools** over the Dev.to (Forem) API v1. Lets AI assistants like Claude and Cursor draft, edit, publish, and manage Dev.to content programmatically.  
-Supports **stdio**, **Streamable HTTP**, and **Cloudflare Workers** transports. Multi-arch Docker image available on GHCR.
-
-### 🎙️ Multilingual Indian Voicebot _(freelance)_
-End-to-end voice assistant supporting **10+ Indian languages** including Hindi and Marathi. Built S2T with Conformer models on Triton, T2S with Fastpitch, and a RAG pipeline using LangChain with embedding + reranker models.
-
-### 📄 [PDFChat](https://github.com/arun2728/PdfChat)
-Chat with any PDF — an LLM-powered assistant for grounded Q&A over uploaded documents.
-
----
-
-## 💼 Experience Highlights
-
-### **Lamatic.ai** — _Founding Engineer - AI_
-**March 2024 – Present · Miami, Florida, United States**
-
-- Built **over 80%** of Lamatic's core stack as the first engineering hire — spanning AI systems, backend infrastructure, and critical frontend components.
-- Designed and trained an intelligent **AI Agent** that understands Lamatic's flow configurations and autonomously builds workflow pipelines from user requirements.
-- Built a configurable **AI evaluation framework** with **LLM-as-a-judge** capabilities for automated quality scoring.
-- Created an internal **AI-powered Hiring Agent** using multimodal agents (resume parsing + video response analysis), reducing recruiter workload by **70%**.
-- Architected a high-performance **serverless executor** processing **1M+ monthly requests** and a deployment engine handling **1K+ deployments/min**.
-- Reduced deployment latency from 2 minutes to 15 seconds — an **87% improvement**.
-- Engineered secure (VPC) and scalable **Kubernetes-based ETL pipelines** for Drive, S3, and SharePoint with OAuth for Google, Microsoft, and GitHub.
-- Developed advanced AI/data processing nodes including **Semantic RAG** and a **Multi-Agent Supervisor**.
-- Built real-time **webhook integration systems** for Slack and Teams for instant event-driven sync.
-- Designed Lamatic's **version control system (VCS)** with native GitHub integration for automatic flow sync.
-
-### **Samespace** — _SDE - AI/ML_
-**October 2022 – March 2024 · Mumbai, India**
-
-- Designed and deployed conversational **chatbots** and **voicebots** handling **95%** of customer queries using word embeddings, reranking, and instruction-tuned Zephyr and GPT-4.
-- Fine-tuned open-source LLMs (**Mistral**, **LLaMA-2**) with **LoRA/PEFT** on bilingual datasets, improving fluency by **30%**.
-- Built a scalable **LLM Inference Engine** with dynamic batching and multi-GPU support, achieving **106 tokens/sec** throughput.
-- Optimized **Whisper V3 large** ASR models with **ONNX/TensorRT** and **Triton** deployment, reducing latency to **0.1–0.4s**.
-- Implemented multimodal search using **LLaVA** and **GPT-4**, boosting search performance by **60%**.
-
-### **Enterpret** — _Machine Learning Intern - NLP_
-**September 2021 – August 2022 · Bangalore, India**
-
-- Built a serverless **multilingual sentiment analysis** system on AWS (Lambda, ECR), reducing processing time by **50%**.
-- Designed **CI/CD pipelines** and Docker containerization with integration and load testing suites.
-- Enhanced **NER** and **text classification** models by **30%** through hyperparameter tuning.
-- Implemented an **anomaly detection** system using CloudWatch, Prometheus, and Grafana — reducing false positives by **60%**.
-
-### **Algoritmo Labs** — _Data Science Intern_
-**July 2020 – September 2020**
-
-- Developed an ML model, converted it to **ONNX**, and deployed it with a **Golang** runtime for client-side productivity tracking.
-
----
-
-## 🎤 Talks & Presentations
-
-- **Why LLMs Need Memory** — Lamatic.ai Community Session (Mar 2026) · [YouTube](https://www.youtube.com/watch?v=iwrBZWDOnSo)
-- **Why Prompting Isn't Enough: The Case for RAG** — Lamatic.ai Community Session (Jan 2026)
-- **What is MCP and How It Works** — Daytona Developers Club Tour '25, Mumbai (May 2025)
-
----
-
-## 🌍 Communities
-
-Active member of global AI and developer communities — **Maxpool · Entrepreneurs Arch · Langfuse · Cloudflare Community · Learn AI Together · AG2 · DAIR.AI**
-
----
-
-## 🎓 Education
-
-**MCT's Rajiv Gandhi Institute of Technology** — University of Mumbai  
-_Bachelor of Engineering in Computer Science_ · **CGPA: 9.6/10**
-
-Coursework: OS, Data Structures & Algorithms, ML, Networking, NLP, Software Engineering, DBMS, Computer Networks, Probability & Statistics.
-
----
-
-## 📜 Certifications
-
-- Neural Networks and Deep Learning — _deeplearning.ai (Coursera)_
-- Deep Learning A-Z: Hands-On Artificial Neural Networks — _Udemy_
-- The Data Science Course 2020: Complete Data Science Bootcamp — _Udemy_
-- Master Python Programming — _Udemy_
-- Tools for Data Science — _IBM (Coursera)_
-- Foundation of Data Science — _IBM (Coursera)_
-
----
-
-## 🔭 Current Focus
-
-- Building reliable **GenAI + Agentic AI** systems for enterprise use-cases
-- Scalable **deployment and inference** platforms
-- Robust **MLOps** and production AI infrastructure
-- **Retrieval-augmented** systems, **MCP** integrations, and autonomous workflow automation
-
----
-
 <div align="center">
 
-### GitHub Stats
+### ✨ _"Build useful AI. Ship it fast. Scale it responsibly."_ ✨
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=arun2728&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=22D3EE&sideNums=22D3EE&dates=6B7280" alt="GitHub Streak" width="520" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun2728&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=22d3ee&area=true&area_color=c084fc&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### ✨ "Build useful AI. Ship it fast. Scale it responsibly." ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00DBDE,50:FC00FF,100:7F00FF" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:8E2DE2,50:2C5364,100:0F2027" alt="footer" />
 
 </div>
